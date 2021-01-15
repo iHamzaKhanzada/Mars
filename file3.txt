@@ -1,1 +1,2 @@
 Hello
+Hamza in file3.txt
